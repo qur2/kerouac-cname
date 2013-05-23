@@ -1,0 +1,37 @@
+{
+  "name": "kerouac-cname",
+  "version": "0.1.0",
+  "description": "CNAME plugin for Kerouac.",
+  "keywords": [
+    "cname",
+    "static",
+    "kerouac"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/qur2/kerouac-cname.git"
+  },
+  "bugs": {
+    "url": "http://github.com/qur2/kerouac-cname/issues"
+  },
+  "author": {
+    "name": "Aurélien Scoubeau",
+    "email": "aurelien.scoubeau@gmail.com",
+    "url": "http://www.aurelienscoubeau.eu/"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib",
+  "dependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "readmeFilename": "README.md"
+}
